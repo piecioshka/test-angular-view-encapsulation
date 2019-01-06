@@ -1,0 +1,5 @@
+/* Shadow DOM */
+:host {
+    display: block;
+    color: black;
+}
