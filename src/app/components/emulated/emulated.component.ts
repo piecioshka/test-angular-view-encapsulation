@@ -1,16 +1,13 @@
-import { Component, OnInit, ViewEncapsulation } from '@angular/core';
+import { Component, OnInit, ViewEncapsulation } from "@angular/core";
 
 @Component({
-  selector: 'app-emulated',
-  templateUrl: './emulated.component.html',
-  styleUrls: ['./emulated.component.css'],
-  encapsulation: ViewEncapsulation.Emulated
+  selector: "app-emulated",
+  templateUrl: "./emulated.component.html",
+  styleUrls: ["./emulated.component.css"],
+  encapsulation: ViewEncapsulation.Emulated,
 })
 export class EmulatedComponent implements OnInit {
+  constructor() {}
 
-  constructor() { }
-
-  ngOnInit() {
-  }
-
+  ngOnInit() {}
 }

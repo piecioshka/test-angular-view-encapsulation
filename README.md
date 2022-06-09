@@ -4,7 +4,7 @@
 
 ## Demo 🎉
 
-* <https://piecioshka.github.io/test-angular-view-encapsulation/>
+<https://piecioshka.github.io/test-angular-view-encapsulation/>
 
 ## Features
 

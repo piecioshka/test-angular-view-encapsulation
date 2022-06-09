@@ -1,16 +1,15 @@
-import { async, ComponentFixture, TestBed } from '@angular/core/testing';
+import { async, ComponentFixture, TestBed } from "@angular/core/testing";
 
-import { NoneComponent } from './none.component';
+import { NoneComponent } from "./none.component";
 
-describe('NoneComponent', () => {
+describe("NoneComponent", () => {
   let component: NoneComponent;
   let fixture: ComponentFixture<NoneComponent>;
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ NoneComponent ]
-    })
-    .compileComponents();
+      declarations: [NoneComponent],
+    }).compileComponents();
   }));
 
   beforeEach(() => {
@@ -19,7 +18,7 @@ describe('NoneComponent', () => {
     fixture.detectChanges();
   });
 
-  it('should create', () => {
+  it("should create", () => {
     expect(component).toBeTruthy();
   });
 });

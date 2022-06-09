@@ -1,16 +1,15 @@
-import { async, ComponentFixture, TestBed } from '@angular/core/testing';
+import { async, ComponentFixture, TestBed } from "@angular/core/testing";
 
-import { ShadowDomComponent } from './shadow-dom.component';
+import { ShadowDomComponent } from "./shadow-dom.component";
 
-describe('ShadowDomComponent', () => {
+describe("ShadowDomComponent", () => {
   let component: ShadowDomComponent;
   let fixture: ComponentFixture<ShadowDomComponent>;
 
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      declarations: [ ShadowDomComponent ]
-    })
-    .compileComponents();
+      declarations: [ShadowDomComponent],
+    }).compileComponents();
   }));
 
   beforeEach(() => {
@@ -19,7 +18,7 @@ describe('ShadowDomComponent', () => {
     fixture.detectChanges();
   });
 
-  it('should create', () => {
+  it("should create", () => {
     expect(component).toBeTruthy();
   });
 });
