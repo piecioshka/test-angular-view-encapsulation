@@ -2,7 +2,7 @@
 
 :ledger: Test app with ViewEncapsulation in Angular.
 
-## Demo 🎉
+## Preview 🎉
 
 <https://piecioshka.github.io/test-angular-view-encapsulation/>
 
