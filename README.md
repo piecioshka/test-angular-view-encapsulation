@@ -8,4 +8,4 @@
 
 ## Features
 
-* :white_check_mark: Render four components with different ViewEncapsulation
+* :white_check_mark: Render THREE components with different ViewEncapsulation
