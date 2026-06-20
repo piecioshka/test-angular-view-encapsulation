@@ -9,3 +9,7 @@
 ## Features
 
 * :white_check_mark: Render THREE components with different ViewEncapsulation
+
+## License
+
+[The MIT License](http://piecioshka.mit-license.org) @ 2026
